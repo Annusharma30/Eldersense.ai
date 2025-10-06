@@ -1,0 +1,17 @@
+eldersense-ai/
+├─ frontend/
+│  ├─ android/        # Android Jetpack Compose app (Kotlin)
+│  └─ web/            # React/Next.js frontend
+├─ backend/           # Python REST API
+├─ ai/                # model training, TFLite conversion
+├─ docs/              # design docs, API spec (openapi.yaml)
+├─ prototypes/        # Figma links, mockups, screenshots
+├─ scripts/           # build & helper scripts
+├─ .github/
+│  ├─ ISSUE_TEMPLATE/
+│  ├─ PULL_REQUEST_TEMPLATE.md
+│  └─ workflows/      # CI: GitHub Actions
+├─ README.md
+├─ CONTRIBUTING.md
+├─ CODEOWNERS
+└─ LICENSE
